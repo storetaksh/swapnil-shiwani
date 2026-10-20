@@ -11,7 +11,7 @@
             "name": "Shivani",
             "parents": {
                 "mother": "Mrs. Ranjana Kumari",
-                "father": "Dr. Upendra Kumar"
+                "father": "Mr. Upendra Kumar"
             }
         },
         "hashtag": "#SwapnilWedsShivani"
@@ -24,8 +24,8 @@
         {
             "name": "Tilak Ceremony",
             "date": "November 23, 2026",
-            "time": "6:00 PM",
-            "venue": "Hotel Virasat Retreat, PC Colony, Patna",
+            "time": "7:00 PM",
+            "venue": "Hotel Virasat Retreat",
             "googleMapsUrl": "https://maps.app.goo.gl/4GnAFT76CXtYsf1Z7?g_st=aw",
             "mapImage": "assets/images/map.png",
             "showLocation": true,
@@ -35,7 +35,7 @@
             "name": "Marwa Ceremony",
             "date": "November 24, 2026",
             "time": "7:00 PM",
-            "venue": "Ambastha Residence, Lohia Nagar, Patna",
+            "venue": "Ambastha Residence",
             "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
             "showLocation": true,
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Marwa+Ceremony&dates=20261124T190000/20261124T220000&details=Marwa+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
@@ -44,7 +44,7 @@
             "name": "Sangeet Ceremony",
             "date": "November 25, 2026",
             "time": "6:00 PM",
-            "venue": "Ambastha Residence, Lohia Nagar, Patna",
+            "venue": "Ambastha Residence",
             "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
             "showLocation": true,
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Sangeet+Ceremony&dates=20261125T180000/20261125T230000&details=Sangeet+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
@@ -52,8 +52,8 @@
         {
             "name": "Wedding Ceremony",
             "date": "November 26, 2026",
-            "time": "8:00 PM",
-            "venue": "Mithila Bhawan, Rajendra Nagar, Patna",
+            "time": "7:00 PM",
+            "venue": "Mithila Bhawan",
             "googleMapsUrl": "https://maps.app.goo.gl/gqxk77vNGM4regdaA?g_st=aw",
             "showLocation": true,
             "highlight": true,
@@ -62,15 +62,15 @@
         {
             "name": "Reception Ceremony",
             "date": "November 28, 2026",
-            "time": "8:00 PM",
-            "venue": "Hotel CP Palace, Exhibition Road, Patna",
+            "time": "7:00 PM",
+            "venue": "Hotel CP Palace",
             "googleMapsUrl": "https://maps.app.goo.gl/YLihT2cMeKASySNq8?g_st=aw",
             "showLocation": true,
             "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Reception+Ceremony&dates=20261128T200000/20261128T235900&details=Reception+Ceremony&location=Hotel+CP+Palace,+Exhibition+Road,+Patna&ctz=Asia/Kolkata"
         }
     ],
     "contact": {
-        "whatsapp": "919279199524",
+        "whatsapp": "919470019450",
         "instagram": ""
     },
     "messages": {

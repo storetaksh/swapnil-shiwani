@@ -1,75 +1,72 @@
 {
     "couple": {
         "groom": {
-            "name": "Dr.Umang",
+            "name": "Swapnil",
             "parents": {
-                "mother": "Mrs. Sudha Chaubey",
-                "father": "Mr. Girish Chaubey"
+                "mother": "Mrs. Kumud Kumari",
+                "father": "Mr. Nabin Kumar Ambastha"
             }
         },
         "bride": {
-            "name": "Dr.Shivangi",
+            "name": "Shiwani",
             "parents": {
-                "mother": "Mrs. Anita Singh",
-                "father": "Dr. Dilip Kumar"
+                "mother": "Mrs. Ranjana Kumari",
+                "father": "Dr. Upendra Kumar"
             }
         },
-        "hashtag": "#shivangiumangforever"
+        "hashtag": "#SwapnilWedsShiwani"
     },
     "wedding": {
-        "date": "2026-05-07T18:00:00",
-        "displayDate": "MAY 7th, 2026"
+        "date": "2026-11-26T20:00:00",
+        "displayDate": "NOVEMBER 26th, 2026"
     },
     "celebrations": [
         {
-            "name": "Subh Tilak",
-            "date": "May 3, 2026",
-            "time": "1:00 PM",
-            "venue": "Bank Road, Gorakhpur",
-            "showLocation": false,
-            "dressCode": "Note: Bus will depart from Lakhisarai at 7:00 AM for Gorakhpur.",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+Tilak&dates=20260503T130000/20260503T140000&details=Shivangi+%26+Umang+Tilak+Ceremony&location=Bank+Road,+Gorakhpur&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Haldi",
-            "date": "May 5, 2026",
-            "time": "10:00 AM",
-            "venue": "Dr. Dilip Kumar's Residence, Lakhisarai",
-            "googleMapsUrl": "https://maps.app.goo.gl/nFRRw9mKtcXUzJr26",
-            "showLocation": true,
-            "mapImage": "assets/images/map.png",
-            "dressCode": "Marigold & Mint",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Haldi+Ceremony&dates=20260505T100000/20260505T110000&details=Haldi+Ceremony&location=Dr.+Dilip+Kumar's+Residence,+Lakhisarai&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Mehandi",
-            "date": "May 6, 2026",
-            "time": "10:00 AM",
-            "venue": "Dr. Dilip Kumar's Residence, Lakhisarai",
-            "googleMapsUrl": "https://maps.app.goo.gl/nFRRw9mKtcXUzJr26",
-            "showLocation": true,
-            "dressCode": "Shimmer, Shine & Show-Stop",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Mehandi+Ceremony&dates=20260506T220000/20260506T230000&details=Mehandi+Ceremony&location=Dr.+Dilip+Kumar's+Residence,+Lakhisarai&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Upnaayan Snaskar",
-            "date": "May 7, 2026",
-            "time": "Morning -  Er.Abhinav Sharma",
-            "venue": "Dr. Dilip Kumar's Residence, Lakhisarai",
-            "googleMapsUrl": "https://maps.app.goo.gl/nFRRw9mKtcXUzJr26",
-            "showLocation": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Upnaayan+Snaskar&dates=20260507T100000/20260507T110000&details=Upnaayan+Snaskar&location=Dr.+Dilip+Kumar's+Residence,+Lakhisarai&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Subh Vivah",
-            "date": "May 7, 2026",
+            "name": "Tilak Ceremony",
+            "date": "November 23, 2026",
             "time": "6:00 PM",
-            "venue": "Chitranjan Road, Near PB High School, Lakhisarai",
-            "googleMapsUrl": "https://maps.app.goo.gl/xfZ4t7FmWR1schgF9",
+            "venue": "Hotel Virasat Retreat, PC Colony, Patna",
+            "googleMapsUrl": "https://maps.app.goo.gl/4GnAFT76CXtYsf1Z7?g_st=aw",
+            "mapImage": "assets/images/map.png",
             "showLocation": true,
-            "dressCode": "Royal & Regal",
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Tilak+Ceremony&dates=20261123T180000/20261123T210000&details=Tilak+Ceremony&location=Hotel+Virasat+Retreat,+PC+Colony,+Patna&ctz=Asia/Kolkata"
+        },
+        {
+            "name": "Marwa Ceremony",
+            "date": "November 24, 2026",
+            "time": "7:00 PM",
+            "venue": "Ambastha Residence, Lohia Nagar, Patna",
+            "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
+            "showLocation": true,
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Marwa+Ceremony&dates=20261124T190000/20261124T220000&details=Marwa+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
+        },
+        {
+            "name": "Sangeet Ceremony",
+            "date": "November 25, 2026",
+            "time": "6:00 PM",
+            "venue": "Ambastha Residence, Lohia Nagar, Patna",
+            "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
+            "showLocation": true,
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Sangeet+Ceremony&dates=20261125T180000/20261125T230000&details=Sangeet+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
+        },
+        {
+            "name": "Wedding Ceremony",
+            "date": "November 26, 2026",
+            "time": "8:00 PM",
+            "venue": "Mithila Bhawan, Rajendra Nagar, Patna",
+            "googleMapsUrl": "https://maps.app.goo.gl/gqxk77vNGM4regdaA?g_st=aw",
+            "showLocation": true,
             "highlight": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Subh+Vivah&dates=20260507T180000/20260507T190000&details=Wedding+Ceremony&location=Dalaan+Resort,+Darbhanga&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Wedding+Ceremony&dates=20261126T200000/20261127T020000&details=Wedding+Ceremony&location=Mithila+Bhawan,+Rajendra+Nagar,+Patna&ctz=Asia/Kolkata"
+        },
+        {
+            "name": "Reception Ceremony",
+            "date": "November 28, 2026",
+            "time": "8:00 PM",
+            "venue": "Hotel CP Palace, Exhibition Road, Patna",
+            "googleMapsUrl": "https://maps.app.goo.gl/YLihT2cMeKASySNq8?g_st=aw",
+            "showLocation": true,
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Reception+Ceremony&dates=20261128T200000/20261128T235900&details=Reception+Ceremony&location=Hotel+CP+Palace,+Exhibition+Road,+Patna&ctz=Asia/Kolkata"
         }
     ],
     "contact": {
@@ -77,7 +74,8 @@
         "instagram": ""
     },
     "messages": {
-        "inviteText": "परमपिता परमेश्वर की असीम अनुकम्पा से, डॉ. शिवांगी एवं डॉ. उमंग के पावन विवाह समारोह के शुभ अवसर पर दिनांक 7 मई को सादर आमंत्रित करते हैं।",
+        "inviteText": "परमपिता परमेश्वर की असीम अनुकम्पा से",
+        "metaDescription": "परमपिता परमेश्वर की असीम अनुकम्पा से, स्वप्निल एवं शिवानी के पावन विवाह समारोह के शुभ अवसर पर दिनांक 26 नवंबर को सादर आमंत्रित करते हैं।",
         "thankYou": "Ready. Set. Glow! Thank you for being part of our 'Happily Ever After.'",
         "coupleQuote": "He found his forever, She found her home!"
     },
@@ -85,5 +83,5 @@
         "url": "assets/music/music.mp3",
         "autoplay": true
     },
-    "websiteUrl": "https://shivangiwedsumang.netlify.app/"
+    "websiteUrl": "https://swapnilwedsshiwani.netlify.app/"
 }

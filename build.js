@@ -32,20 +32,24 @@ try {
     const bParents = `${weddingData.couple.bride.parents.mother}<br>&<br>${weddingData.couple.bride.parents.father}`;
 
     // === 1. Meta Tags ===
-    const title = `${brideFirst} Weds ${groomFirst} | A Royal Wedding Invite`;
-    const desc = `${inviteText} Join us on ${date}.`;
-    const imageAlt = `${brideFirst} & ${groomFirst} Wedding Invitation`;
+    const title = `${groomFirst} Weds ${brideFirst} | A Royal Wedding Invite`;
+    const desc = weddingData.messages.metaDescription || `${inviteText} Join us on ${date}.`;
+    const imageAlt = `${groomFirst} & ${brideFirst} Wedding Invitation`;
 
     html = html.replace(/<title>[\s\S]*?<\/title>/i, `<title>${title}</title>`);
     html = html.replace(/<meta\s+name="description"\s+content="[^"]*">/i, `<meta name="description" content="${escapeHtml(desc)}">`);
-    html = html.replace(/<meta\s+name="keywords"\s+content="[^"]*">/i, `<meta name="keywords" content="wedding invitation, ${brideFirst}, ${groomFirst}, royal wedding, wedding celebration">`);
-    html = html.replace(/<meta\s+name="author"\s+content="[^"]*">/i, `<meta name="author" content="${brideFirst} & ${groomFirst}">`);
+    html = html.replace(/<meta\s+name="keywords"\s+content="[^"]*">/i, `<meta name="keywords" content="wedding invitation, ${groomFirst}, ${brideFirst}, royal wedding, wedding celebration">`);
+    html = html.replace(/<meta\s+name="author"\s+content="[^"]*">/i, `<meta name="author" content="${groomFirst} & ${brideFirst}">`);
+
+    // Clean up template image alt text
+    html = html.replace(/alt="The Wedding Celebration of[^"]*"/i, `alt="The Wedding Celebration of ${groomFirst} Weds ${brideFirst}"`);
+    html = html.replace(/alt="[^"]*"\s+class="couple-img"/i, `alt="${groomFirst} & ${brideFirst}" class="couple-img"`);
 
     const metaMap = {
         'og:title': title,
         'og:url': websiteUrl,
         'og:description': desc,
-        'og:site_name': `${brideFirst} & ${groomFirst} Wedding`,
+        'og:site_name': `${groomFirst} & ${brideFirst} Wedding`,
         'og:image:alt': imageAlt,
         'twitter:title': title,
         'twitter:url': websiteUrl,
@@ -81,9 +85,9 @@ try {
     replaceText('invite-text', inviteText);
     replaceText('grooms-parents-name', gParents);
     replaceText('brides-parents-name', bParents);
-    replaceText('bride-groom-title', `${brideName}<br>&<br>${groomName}`);
+    replaceText('bride-groom-title', `${groomName}<br>&<br>${brideName}`);
     replaceText('couple-quote', weddingData.messages.coupleQuote);
-    replaceText('end-title', `${brideName} & ${groomName}`);
+    replaceText('end-title', `${groomName} & ${brideName}`);
     replaceText('footer-thank-you', weddingData.messages.thankYou);
     replaceText('footer-hashtag', weddingData.couple.hashtag);
 

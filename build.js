@@ -32,7 +32,7 @@ try {
     const bParents = `${weddingData.couple.bride.parents.mother}<br>&<br>${weddingData.couple.bride.parents.father}`;
 
     // === 1. Meta Tags ===
-    const title = `${groomFirst} Weds ${brideFirst} | A Royal Wedding Invite`;
+    const title = `${groomFirst} Weds ${brideFirst} | A Wedding Invite`;
     const desc = weddingData.messages.metaDescription || `${inviteText} Join us on ${date}.`;
     const imageAlt = `${groomFirst} & ${brideFirst} Wedding Invitation`;
 

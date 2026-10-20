@@ -8,13 +8,13 @@
             }
         },
         "bride": {
-            "name": "Shiwani",
+            "name": "Shivani",
             "parents": {
                 "mother": "Mrs. Ranjana Kumari",
                 "father": "Dr. Upendra Kumar"
             }
         },
-        "hashtag": "#SwapnilWedsShiwani"
+        "hashtag": "#SwapnilWedsShivani"
     },
     "wedding": {
         "date": "2026-11-26T20:00:00",
@@ -29,7 +29,7 @@
             "googleMapsUrl": "https://maps.app.goo.gl/4GnAFT76CXtYsf1Z7?g_st=aw",
             "mapImage": "assets/images/map.png",
             "showLocation": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Tilak+Ceremony&dates=20261123T180000/20261123T210000&details=Tilak+Ceremony&location=Hotel+Virasat+Retreat,+PC+Colony,+Patna&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Tilak+Ceremony&dates=20261123T180000/20261123T210000&details=Tilak+Ceremony&location=Hotel+Virasat+Retreat,+PC+Colony,+Patna&ctz=Asia/Kolkata"
         },
         {
             "name": "Marwa Ceremony",
@@ -38,7 +38,7 @@
             "venue": "Ambastha Residence, Lohia Nagar, Patna",
             "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
             "showLocation": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Marwa+Ceremony&dates=20261124T190000/20261124T220000&details=Marwa+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Marwa+Ceremony&dates=20261124T190000/20261124T220000&details=Marwa+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
         },
         {
             "name": "Sangeet Ceremony",
@@ -47,7 +47,7 @@
             "venue": "Ambastha Residence, Lohia Nagar, Patna",
             "googleMapsUrl": "https://maps.app.goo.gl/Eq9BTPE9LWHvfVu47?g_st=aw",
             "showLocation": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Sangeet+Ceremony&dates=20261125T180000/20261125T230000&details=Sangeet+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Sangeet+Ceremony&dates=20261125T180000/20261125T230000&details=Sangeet+Ceremony&location=Ambastha+Residence,+Lohia+Nagar,+Patna&ctz=Asia/Kolkata"
         },
         {
             "name": "Wedding Ceremony",
@@ -57,7 +57,7 @@
             "googleMapsUrl": "https://maps.app.goo.gl/gqxk77vNGM4regdaA?g_st=aw",
             "showLocation": true,
             "highlight": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Wedding+Ceremony&dates=20261126T200000/20261127T020000&details=Wedding+Ceremony&location=Mithila+Bhawan,+Rajendra+Nagar,+Patna&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Wedding+Ceremony&dates=20261126T200000/20261127T020000&details=Wedding+Ceremony&location=Mithila+Bhawan,+Rajendra+Nagar,+Patna&ctz=Asia/Kolkata"
         },
         {
             "name": "Reception Ceremony",
@@ -66,7 +66,7 @@
             "venue": "Hotel CP Palace, Exhibition Road, Patna",
             "googleMapsUrl": "https://maps.app.goo.gl/YLihT2cMeKASySNq8?g_st=aw",
             "showLocation": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shiwani+-+Reception+Ceremony&dates=20261128T200000/20261128T235900&details=Reception+Ceremony&location=Hotel+CP+Palace,+Exhibition+Road,+Patna&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Swapnil+%26+Shivani+-+Reception+Ceremony&dates=20261128T200000/20261128T235900&details=Reception+Ceremony&location=Hotel+CP+Palace,+Exhibition+Road,+Patna&ctz=Asia/Kolkata"
         }
     ],
     "contact": {
@@ -74,8 +74,8 @@
         "instagram": ""
     },
     "messages": {
-        "inviteText": "परमपिता परमेश्वर की असीम अनुकम्पा से",
-        "metaDescription": "परमपिता परमेश्वर की असीम अनुकम्पा से, स्वप्निल एवं शिवानी के पावन विवाह समारोह के शुभ अवसर पर दिनांक 26 नवंबर को सादर आमंत्रित करते हैं।",
+        "inviteText": "By the Grace of the Almighty",
+        "metaDescription": "With the blessings of our families, we cordially invite you to join us in celebrating the wedding of Swapnil & Shivani on November 26th, 2026.",
         "thankYou": "Ready. Set. Glow! Thank you for being part of our 'Happily Ever After.'",
         "coupleQuote": "He found his forever, She found her home!"
     },
@@ -83,5 +83,5 @@
         "url": "assets/music/music.mp3",
         "autoplay": true
     },
-    "websiteUrl": "https://swapnilwedsshiwani.netlify.app/"
+    "websiteUrl": "https://swapnilwedsshivani.vercel.app/"
 }
